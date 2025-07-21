@@ -1,2 +1,2 @@
-# hello-world
-The "Hello World" program is the quintessential first step in learning any programming language. It serves as a simple yet effective demonstration of the language's basic syntax and the environment setup. This implementation is written in Python, a powerful and beginner-friendly programming language widely used in academia and industry.
+Welcome to the Hello World Project, a foundational example designed to demonstrate the simplest possible output in programming: printing "Hello World" to the console. This project serves as a starting point for beginners to understand the basics of syntax, environment setup, and program execution in any language.
+
